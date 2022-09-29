@@ -44,13 +44,6 @@ GRAY = Material(
     0.05,
 )
 
-GRAY = Material(
-    np.array([0.18725, 0.1, 0.1745]),
-    np.array([0.396, 0.69, 0.74151]),
-    np.array([0.297254, 0.30829, 0.306678]),
-    50,
-    0.05,
-)
 
 MIRROR = Material(np.array([0.3, 0.3, 0.3]), np.array([0.0, 0.0, 0.0]), np.array([1, 1, 1]), 1500, 1)
 
