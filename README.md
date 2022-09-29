@@ -11,7 +11,7 @@ Toy raytracing implementation with Phong model
 
 <h2>Setup</h2>
 
-#### Install requirements.
+Install requirements.
 
 ```
 pip3 install numpy opencv-python
