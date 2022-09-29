@@ -7,6 +7,7 @@ Toy raytracing implementation with Phong model
 
 - [ ] Speed up. Numba / Rust implementation
 - [ ] Cube object's class 
+- [ ] Bag near 2 plane's intersection
 
 <h2>Setup</h2>
 
